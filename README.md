@@ -1,7 +1,7 @@
 # Hello! :wave:
 My name is Erasmus. I'm passionate about open-source and clean code.
 
-![Erasmus' GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelen5&theme=synthwave&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelen5&theme=synthwave&show_icons=true&hide=html&langs_count=4) ![Erasmus' GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelen5&theme=synthwave&show_icons=true&hide_rank=true&custom_title=Github%20stats)
 
 ## Projects
 
