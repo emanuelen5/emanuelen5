@@ -1,7 +1,17 @@
 # Hello! :wave:
-My name is Erasmus. I'm passionate about open-source and clean code.
+My name is Erasmus. I'm a software engineer at Intel, passionate about open-source and clean code.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelen5&theme=synthwave&show_icons=true&hide=html&langs_count=4) ![Erasmus' GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelen5&theme=synthwave&show_icons=true&hide_rank=true&custom_title=Stats)
+
+```javascript
+const Erasmus = {
+  pronouns: "he" | "him",
+  code: [C, C++, Python, Typescript, VHDL, Bash],
+  tools: [GithubActions, Flask, SQLalchemy, React, Docker, VUnit],
+  wow: ["ci", "clean code", "tdd", "automation"],
+  hobbies: ["electronics", "Stockholm Makerspace", "3D printing", "longboard", "guitar"],
+}.join(many_more_talents);
+```
 
 ## Projects
 
