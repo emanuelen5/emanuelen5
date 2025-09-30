@@ -8,7 +8,7 @@ const Erasmus = {
   pronouns: "he" | "him",
   code: [C, C++, Python, Typescript, VHDL, Bash],
   tools: [GithubActions, Flask, SQLalchemy, React, Docker, VUnit],
-  wow: ["ci", "clean code", "tdd", "automation"],
+  wow: ["team work", "ci", "clean code", "tdd", "automation"],
   hobbies: ["electronics", "Stockholm Makerspace", "3D printing", "longboard", "guitar"],
 }.join(many_more_talents);
 ```
