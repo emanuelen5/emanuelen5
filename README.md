@@ -27,7 +27,7 @@ Here are some past and present projects I've worked on.
 
 ## Open source contributions
 
-- 2025: [Stgit](https://github.com/srydh/vscode-stgit)
+- 2025-: [Stgit](https://github.com/srydh/vscode-stgit)
 - 2019-: [Memberbooth](https://github.com/makerspace/memberbooth)
 - 2018-: [Makeradmin](https://github.com/makerspace/makeradmin)
 
