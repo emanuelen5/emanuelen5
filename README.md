@@ -17,9 +17,9 @@ const Erasmus = {
 
 Here are some past and present projects I've worked on.
 
+- 2026: [⏰ Kitchen timer](https://github.com/timer-chefs/kitchen-timer)
 - 2025: [💓 Digital message-in-a-bottle](https://github.com/emanuelen5/U-1F493_in_a_bottle)
 - 2025: [📌 Vartärvipåväg?](https://github.com/emanuelen5/vartarvipavag)
-- 2024-: [⏰ Kitchen timer](https://github.com/emanuelen5/kitchen-timer)
 - 2021: [⌨️ Raspberry Pi Pico Macro Keyboard](https://github.com/emanuelen5/pico-macro-keyboard)
 - 2020: [⚡ NEXA power switch controller](https://github.com/emanuelen5/NEXA-910-codec)
 - 2020: [🕓 Nixie clock](https://github.com/emanuelen5/nixie-clock)
