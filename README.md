@@ -33,7 +33,7 @@ Here are some past and present projects I've worked on.
 
 ## Other
 
-I use Stgit with the vscode plugin https://github.com/srydh/vscode-stgit.
+I use Stgit with the vscode plugin https://github.com/cedernaes/vscode-stgit.
 
 My keyboard of choice is a Kinesis Advantage keyboard, that I have retrofitted with a [kinT controller](https://github.com/kinx-project/kint) (I've built a few of them). Here is [my QMK fork with the layout I use](https://github.com/emanuelen5/qmk_firmware).
 
